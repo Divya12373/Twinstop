@@ -14,14 +14,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (MongoDB Atlas)
-- **Authentication:** JWT or similar token-based login
-- **Styling:** CSS / Bootstrap / Material UI (based on usage)
-
----
 
 
